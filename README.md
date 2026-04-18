@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/qantum-nexus-poster.png" alt="QANTUM NEXUS Enterprise Sovereign Architecture" width="100%">
+
 # 🌐 **QANTUM NEXUS** 
 ### `ENTERPRISE SOVEREIGN ARCHITECTURE v3.0 // THE ABSOLUTE SINGULARITY`
 
