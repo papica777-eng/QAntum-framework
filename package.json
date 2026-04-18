@@ -1,0 +1,23 @@
+{
+  "name": "qantum-cli",
+  "version": "1.0.0-community",
+  "description": "QAntum Prime - Open Core CLI",
+  "main": "bin/cli.js",
+  "bin": {
+    "qantum-cli": "./bin/cli.js",
+    "qantum": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "testing",
+    "qantum",
+    "freemium"
+  ],
+  "author": "Dimitar Prodromov (QAntum Labs)",
+  "license": "MIT",
+  "dependencies": {}
+}
